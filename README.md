@@ -63,7 +63,7 @@ Apaixonado por Game Of Thrones, jogos e programação </p>
 </div><br/>
 
 ### Projetos concluidos✅:
-- [E-commerce em .ASP NET CORE]()<br/>
+- [E-commerce em .ASP NET CORE](https://github.com/Lu1sR0/E-Commerce-TCC)<br/>
 - [Windows XP]()<br/>
 - [Loja de carros]()<br/>
 - [DISQUETECH]()<br/>
