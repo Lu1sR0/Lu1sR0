@@ -64,13 +64,13 @@ Apaixonado por Game Of Thrones, jogos e programação </p>
 
 ### Projetos concluidos✅:
 - [E-commerce em .ASP NET CORE](https://github.com/Lu1sR0/E-Commerce-TCC)<br/>
-- [Windows XP]()<br/>
+- [Monte seu PC](https://github.com/Lu1sR0/Monte-seu-PC)<br/>
 - [Loja de carros](https://github.com/Lu1sR0/Retrogarage)<br/>
+- [Windows XP]()<br/>
 - [DISQUETECH]()<br/>
 
 
 ### Projetos em andamento🚧:
 - [Pokedex com consumo de API]()<br/>
 - [Aplicativo de GOT]()<br/>
-- [Loja de jogos]()<br/>
 <br />
