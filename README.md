@@ -4,10 +4,13 @@
 <p align="center">Focado no Front-End e desenvolvimento android.<br />
 Apaixonado por Game Of Thrones, jogos e programação </p>
 
+<div align="center">
+  <img align= "center" src="https://i.pinimg.com/originals/8b/b1/e6/8bb1e6d5e8c6db2a45bb427b5ab52f04.gif"/>
+</div>
 <br />
 
 <div align ="center">
-<h2> Meus princpais links:</h2>
+<h2> Meus principais links:</h2>
 
 [![Meu Portfólio](https://img.shields.io/badge/portifolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-roberto-cardoso-trindade-2852891b3/)
@@ -15,9 +18,10 @@ Apaixonado por Game Of Thrones, jogos e programação </p>
 [![Instaram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lu1sr0b/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@luisroberto9723?si=viC-F0J8Q0cUZmst)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/LR)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]([https://w.app/LR](https://steamcommunity.com/id/Lu1sR_/))
+
 </div>
 
-<br />
 
 <div align="center">
 <h2>Tecnologias que eu uso no meu dia:</h2>
@@ -35,7 +39,6 @@ Apaixonado por Game Of Thrones, jogos e programação </p>
 </div><br/>
 </div>
 
-<br />
 
 <div align="center">
 <h2>Outras tecnologias que possuo conhecimento e prática:</h2> 
@@ -52,7 +55,6 @@ Apaixonado por Game Of Thrones, jogos e programação </p>
 </div><br/>
 </div>
 
-<br />
 <div align ="center"style="display: inline_block">
 <h2>Serviço de hospedam que eu ultilizo:</h2> 
 
@@ -72,31 +74,3 @@ Apaixonado por Game Of Thrones, jogos e programação </p>
 - [Aplicativo de GOT]()<br/>
 - [Loja de jogos]()<br/>
 <br />
-
-<h2 align="center">Meu PC:</h2>
-<div align ="center"style="display: inline_block">
-  <img align="center" alt="placa de video" src="https://img.shields.io/badge/AMD-Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-    <img align="center" alt="processador" src="https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-    <img align="center" alt="OS" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</div><br/>
-<br />
-
-<div align ="center"></div>
-<h2 align="center">let coding = false;
-if (!coding) {
-  console.log("Vamos jogar");
-}
-</h2>
-<div align ="center"style="display: inline_block">
-  <a href="https://steamcommunity.com/id/Lu1sR_/"> <img align="center" alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> </a>  
-</div>
-</div>
-
-<br />
-<br />
-<br />
-
-<div align="center">
-  <img align= "center" src="https://i.pinimg.com/originals/8b/b1/e6/8bb1e6d5e8c6db2a45bb427b5ab52f04.gif"/>
-  <p align="center"> "Fly like a dragon"</p>
-</div>
