@@ -6,6 +6,7 @@ Apaixonado por Game Of Thrones, jogos e programação </p>
 
 <div align="center">
   <img align= "center" src="https://media2.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif?cid=6c09b952bkrhg5x9td86piyfr9rrxg8j9pghpw6phuz5dc3g&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
+  <p>"King of the north"</p>
 </div>
 <br />
 
