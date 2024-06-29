@@ -66,8 +66,7 @@ Apaixonado por Game Of Thrones, jogos e programação </p>
 - [E-commerce em .ASP NET CORE](https://github.com/Lu1sR0/E-Commerce-TCC)<br/>
 - [Monte seu PC](https://github.com/Lu1sR0/Monte-seu-PC)<br/>
 - [Loja de carros](https://github.com/Lu1sR0/Retrogarage)<br/>
-- [Windows XP]()<br/>
-- [DISQUETECH]()<br/>
+- [Windows XP](https://github.com/Lu1sR0/Windows-XP)<br/>
 
 
 ### Projetos em andamento🚧:
