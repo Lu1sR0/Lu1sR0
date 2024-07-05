@@ -68,6 +68,8 @@ Apaixonado por Game Of Thrones, jogos e programação </p>
 - [Monte seu PC](https://github.com/Lu1sR0/Monte-seu-PC)<br/>
 - [Loja de carros](https://github.com/Lu1sR0/Retrogarage)<br/>
 - [Windows XP](https://github.com/Lu1sR0/Windows-XP)<br/>
+- [Sankoi](https://github.com/Lu1sR0/Sankoi)<br/>
+- [Pokedex](https://github.com/Lu1sR0/Pokedex)<br/>
 
 
 ### Projetos em andamento🚧:
