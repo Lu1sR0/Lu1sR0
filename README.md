@@ -18,9 +18,6 @@
       <p>Hello, I'm Luis Roberto, 17 years old, from São Paulo, Brazil. Since childhood, I've had a deep passion for technology. I am always very creative and I try my best to implement this creativity in my projects.</p>
     </div>
   </div>
-
-  <br>
-
   <br>
   
   <!-- Education -->
@@ -49,8 +46,6 @@
       </ul>
     </div>
   </div>
-
-  <br>
 </details>
 
 ###
