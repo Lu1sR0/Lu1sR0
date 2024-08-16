@@ -1,7 +1,10 @@
-<img src="https://i.ibb.co/C24TswR/Ol-me-Chamo-Luis-Roberto-Sou-Desenvolvedor-WEb-com-foco-no-Front-end.jpg"  width="100%" height="325" align="center"/>
+<!-- Header -->
+![I'm a Web Developer (1)](banner/banner.gif)
+<h1>
+</h1>
 
 <!-- About me -->
-* ### Programming enthusiast and _student_. 
+* ### Front End enthusiast and lover of _innovation_. 
 * ### Currently, I am focused on learning _Front-end_ and _TypeScript for Back-End_. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" />
 * ### I am open to _internship proposals_. 💼
 
@@ -10,10 +13,9 @@
 
   <!-- Tech Passion -->
   <div style="clear:both;">
-    <img align="right" width="150" height="150" src="https://github.com/ViictorrMillan/ViictorrMillan/blob/main/icons/gif.gif">
     <div>
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" /> Tech Passion:</h3>
-      <p>Hello, I'm Luis Roberto, 17 years old, from São Paulo, Brazil. Since childhood, I've had a deep passion for technology.</p>
+      <p>Hello, I'm Luis Roberto, 17 years old, from São Paulo, Brazil. Since childhood, I've had a deep passion for technology. I am always very creative and I try my best to implement this creativity in my projects.</p>
     </div>
   </div>
 
@@ -23,12 +25,12 @@
   
   <!-- Education -->
   <div style="clear:both;">
-    <img align="right" width="150" height="150" src="https://media.tenor.com/TBsXnJBWLncAAAAi/ghost-dance.gif">
     <div>
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="30" height="30" /> Education:</h3>
       <ul>
         <li>Ongoing courses in Front-end development</li>
         <li>Ongoing English courses</li>
+        <li>Finishing high school</li>
       </ul>
     </div>
   </div>
@@ -37,13 +39,13 @@
   
   <!-- Hobbies -->
   <div style="clear:both;">
-    <img align="right" width="150" height="150" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
     <div>
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="30" height="30" /> Hobbies:</h3>
       <ul>
         <li>Coding</li>
-        <li>Build a </li>
+        <li>Build Gunplas</li>
         <li>Gaming</li>
+        <li>Watch Animes</li>
       </ul>
     </div>
   </div>
