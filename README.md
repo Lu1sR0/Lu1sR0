@@ -1,63 +1,96 @@
-<h1 align="center">Olá! Eu sou o Luis Roberto 🖐️</h1>
+<img src="https://i.ibb.co/C24TswR/Ol-me-Chamo-Luis-Roberto-Sou-Desenvolvedor-WEb-com-foco-no-Front-end.jpg"  width="100%" height="325" align="center"/>
 
-<p align="center">Técnico em Desenvolvimento de sistemas</p>
-<p align="center">Focado no Front-End e desenvolvimento android.<br />
-Apaixonado por Game Of Thrones, jogos e programação </p>
+<!-- About me -->
+* ### Programming enthusiast and _student_. 
+* ### Currently, I am focused on learning _Front-end_ and _TypeScript for Back-End_. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" />
+* ### I am open to _internship proposals_. 💼
+
+* <details>
+  <summary>About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /></summary>
+
+  <!-- Tech Passion -->
+  <div style="clear:both;">
+    <img align="right" width="150" height="150" src="https://github.com/ViictorrMillan/ViictorrMillan/blob/main/icons/gif.gif">
+    <div>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" /> Tech Passion:</h3>
+      <p>Hello, I'm Luis Roberto, 17 years old, from São Paulo, Brazil. Since childhood, I've had a deep passion for technology.</p>
+    </div>
+  </div>
+
+  <br>
+
+  <br>
+  
+  <!-- Education -->
+  <div style="clear:both;">
+    <img align="right" width="150" height="150" src="https://media.tenor.com/TBsXnJBWLncAAAAi/ghost-dance.gif">
+    <div>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="30" height="30" /> Education:</h3>
+      <ul>
+        <li>Ongoing courses in Front-end development</li>
+        <li>Ongoing English courses</li>
+      </ul>
+    </div>
+  </div>
+
+  <br>
+  
+  <!-- Hobbies -->
+  <div style="clear:both;">
+    <img align="right" width="150" height="150" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
+    <div>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="30" height="30" /> Hobbies:</h3>
+      <ul>
+        <li>Coding</li>
+        <li>Build a </li>
+        <li>Gaming</li>
+      </ul>
+    </div>
+  </div>
+
+  <br>
+</details>
+
+###
+
+<h2 align="center">My Links 🔗</h2>
+
+###
 
 <div align="center">
-  <img align= "center" src="https://media2.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif?cid=6c09b952bkrhg5x9td86piyfr9rrxg8j9pghpw6phuz5dc3g&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
-  <p>"The Night is Dark and Full of Errors, But My Code Shines Bright"</p>
-</div>
-<br />
-
-<div align ="center">
-<h2> Meus principais links:</h2>
-
-[![Meu Portfólio](https://img.shields.io/badge/portifolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lrportifolio.vercel.app)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-roberto-cardoso-trindade-2852891b3/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Lu1sR_)
-[![Instaram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lu1sr0b/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@luisroberto9723?si=viC-F0J8Q0cUZmst)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/LR)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Lu1sR_/)
-
+  <a href="https://wa.me/11989918871" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="57" height="41" alt="whatsapp logo"  />
+  </a>
+  <a href="lu1sr_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="57" height="41" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/luis-roberto-cardoso-trindade-2852891b3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="41" alt="linkedin logo"  />
+  </a>
 </div>
 
+###
+
+<h2 align="center">My Tech Stack 💻</h2>
+
+###
 
 <div align="center">
-<h2>Tecnologias que eu uso no meu dia:</h2>
-
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img align="center" alt="Next.Js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-
-</div><br/>
+  <img src="https://skillicons.dev/icons?i=react" height="41" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ts" height="41" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="41" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="41" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="41" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=html" height="41" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=css" height="41" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=js" height="41" alt="javascript logo"  />
 </div>
 
-
-<div align="center">
-<h2>Outras tecnologias que possuo conhecimento e prática:</h2> 
-
-<div style="display: inline_block">
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img align="center" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-    <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    <img align="center" alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-</div><br/>
-</div>
-
-<div align ="center"style="display: inline_block">
-<h2>Serviço de hospedam que eu ultilizo:</h2> 
-
-
-  <img align="center" alt="netilify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</div><br/>
+###
