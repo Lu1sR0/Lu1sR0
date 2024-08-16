@@ -62,17 +62,3 @@ Apaixonado por Game Of Thrones, jogos e programação </p>
   <img align="center" alt="netilify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div><br/>
-
-### Projetos concluidos✅:
-- [E-commerce em .ASP NET CORE](https://github.com/Lu1sR0/E-Commerce-TCC)<br/>
-- [Monte seu PC](https://github.com/Lu1sR0/Monte-seu-PC)<br/>
-- [Loja de carros](https://github.com/Lu1sR0/Retrogarage)<br/>
-- [Windows XP](https://github.com/Lu1sR0/Windows-XP)<br/>
-- [Sankoi](https://github.com/Lu1sR0/Sankoi)<br/>
-- [Pokedex](https://github.com/Lu1sR0/Pokedex)<br/>
-
-
-### Projetos em andamento🚧:
-- [Pokedex com consumo de API]()<br/>
-- [Aplicativo de GOT]()<br/>
-<br />
