@@ -73,21 +73,38 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="41" alt="react logo"  />
+  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="41" alt="react logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="41" alt="typescript logo"  />
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" height="41" alt="typescript logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="41" alt="nextjs logo"  />
+  <a href="https://nextjs.org/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="41" alt="nextjs logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="41" alt="tailwindcss logo"  />
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="41" alt="tailwindcss logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="41" alt="nodejs logo"  />
+  <a href="https://nodejs.org/en/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="41" alt="nodejs logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="41" alt="html5 logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="41" alt="html5 logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="41" alt="css3 logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="41" alt="css3 logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="41" alt="javascript logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" height="41" alt="javascript logo" />
+  </a>
 </div>
+
 
 ###
