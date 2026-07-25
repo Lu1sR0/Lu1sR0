@@ -15,7 +15,7 @@
   <div style="clear:both;">
     <div>
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" /> Tech Passion:</h3>
-      <p>Hello, I'm Luis Roberto, 17 years old, from São Paulo, Brazil. Since childhood, I've had a deep passion for technology. I am always very creative and I try my best to implement this creativity in my projects.</p>
+      <p>Hello, I'm Luis Roberto, 19 years old, from São Paulo, Brazil. Since childhood, I've had a deep passion for technology. I am always very creative and I try my best to implement this creativity in my projects.</p>
     </div>
   </div>
   <br>
