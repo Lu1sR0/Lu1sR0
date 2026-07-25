@@ -2,9 +2,6 @@
      LU1SR0 // OUTFRAME TERMINAL
      BLACK + RED CYBERPUNK PROFILE README
 ========================================================== -->
-
-![Luis Roberto — Web Developer](banner/banner.gif)
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=650&color=FF003C&center=true&vCenter=true&repeat=true&width=920&height=72&lines=%3E+INITIALIZING+LU1SR0.EXE_;Next.js+Developer+%2F%2F+Web+Product+Builder;React+%2B+TypeScript+%2B+Node.js;Interfaces%2C+systems%2C+SaaS+and+digital+experiences;Founder+%40+Outframe.dev;Deploy+before+winter+arrives." alt="Luis Roberto typing introduction" />
