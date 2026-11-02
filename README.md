@@ -6,7 +6,7 @@
 
 <img src="assets/profile/section-oss.svg" width="100%" alt="Open source: código aberto, pode clonar, abrir issue e mandar PR.">
 
-<p align="center"><a href="https://meuclaudinho.com.br"><img src="assets/profile/feature-claudinho.svg" width="846" alt="Claudinho, open source (MIT): o app do Claude Code para Windows, com papéis de parede ASCII vivos, diffs, desfazer e o Clawd do seu lado."></a></p>
+<p align="center"><a href="https://meuclaudinho.com.br"><img src="assets/profile/feature-claudinho.svg?v=2" width="846" alt="Claudinho, open source (MIT): o app do Claude Code para Windows, com papéis de parede ASCII vivos, diffs, desfazer e o Clawd do seu lado."></a></p>
 
 <p align="center"><a href="https://github.com/Lu1sR0/claudinho"><img src="https://img.shields.io/github/stars/Lu1sR0/claudinho?style=flat-square&label=stars&labelColor=0c0c0e&color=ff2a2a" alt="Estrelas do Claudinho no GitHub"></a> <a href="https://github.com/Lu1sR0/claudinho/fork"><img src="https://img.shields.io/github/forks/Lu1sR0/claudinho?style=flat-square&label=forks&labelColor=0c0c0e&color=f4ff1e" alt="Forks do Claudinho"></a> <a href="https://github.com/Lu1sR0/claudinho/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Lu1sR0/claudinho?style=flat-square&labelColor=0c0c0e&color=3dff6e" alt="Licença MIT"></a></p>
 
