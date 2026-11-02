@@ -1,4 +1,4 @@
-<img src="assets/profile/hero.svg" width="100%" alt="Hero no estilo Cyberpunk 2077: o logo da banda Samurai em arte ASCII vermelha e branca, com glitches em branco, verde e ciano, um log de boot e um mini breach protocol. Luis Roberto, desenvolvedor web e fundador da Outframe, São Paulo.">
+<img src="assets/profile/hero.svg?v=2" width="100%" alt="Hero no estilo Cyberpunk 2077: o logo da banda Samurai em arte ASCII vermelha e branca, com glitches em branco, verde e ciano, um log de boot e um mini breach protocol. Luis Roberto, desenvolvedor web e fundador da Outframe, São Paulo.">
 
 <p align="center"><a href="https://luisrobertoportifolio.com.br">portfólio</a> &nbsp;·&nbsp; <a href="https://outframe.dev">outframe.dev</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/luis-roberto-cardoso-trindade-2852891b3/">linkedin</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/lu1sr0b/">@lu1sr0b</a> &nbsp;·&nbsp; <a href="mailto:luiscardoso946@gmail.com">luiscardoso946@gmail.com</a></p>
 
